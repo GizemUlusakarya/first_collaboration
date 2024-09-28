@@ -1,7 +1,7 @@
 package first_collaboration;
 
-public class Gizems_class {
+public class Abdulkadir {
     public static void main(String[] args) {
-        System.out.println("hello,");
+
     }
 }
